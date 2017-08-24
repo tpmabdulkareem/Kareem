@@ -1,2 +1,2 @@
 # Kareem
-## A Documentation on MIni FAB Lab MESCE
+## A Documentation on Mini FAB Lab MESCE
