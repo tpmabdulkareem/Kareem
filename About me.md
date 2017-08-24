@@ -1,4 +1,5 @@
 #ABOUT ME
+![alt text](https://www.facebook.com/abdul.kareem2")
 ## CAREER OBJECTIVE	
 To gain employment with a company that offers me a consistently positive atmosphere to learn new technologies and implement them for the betterment of the business.
 
