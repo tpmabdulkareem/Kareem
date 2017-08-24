@@ -4,10 +4,10 @@
 
 
 ##ABOUT ME
-#T P M ABDULKAREEM
-  S7, ECE-B
-  MESCE KUTTIPPURAM
-  [more...](https://tpmabdulkareem.github.io/about)
+#T P M ABDULKAREEM.*
+  S7, ECE-B.*
+  MESCE KUTTIPPURAM.*
+  [More...](https://tpmabdulkareem.github.io/about).*
 
 
 
@@ -32,6 +32,6 @@
                                 
   Day 7 : Laser Cutting,Moulding and Casting
                                 
-Project
+  Project
 
 
