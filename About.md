@@ -62,14 +62,19 @@ To gain employment with a company that offers me a consistently positive atmosph
 
 ## WEB PRESENCE
    LinkedIn 	:  https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/
+   
    Github    :  http://tpmabdulkareem.github.io
+   
    Facebook  :  http://www.facebook.com/abdul.kareem2
 	
 	
 ## PERSONAL DETAILS
   Date of Birth	: 28th April, 1996
+  
   Languages	: English, Malayalam.
+  
   Permanent Address 	: T P M K HOUSE (3), KARAD ROAD, TANUR, MALAPPURAM DIST. PIN:676302
+  
   Email:abdulkareemtanur@gmail.com, abdulkareemtpm@hotmail.com
 
 
