@@ -1,5 +1,7 @@
 # ABOUT ME
 
+<img src="IMG_20170301_114734_588.jpg">
+
 ## CAREER OBJECTIVE	
 To gain employment with a company that offers me a consistently positive atmosphere to learn new technologies and implement them for the betterment of the business.
 
@@ -22,18 +24,27 @@ To gain employment with a company that offers me a consistently positive atmosph
 
 # Smart-Parko [IoT Based smart parking slot) – Minor Project (B.Tech)
   Duration: 6 month		Team Size: 4 Members                     Role: Team Leader
+  
   	The objective of the project is to build an IoT based smart parking slot finder, using an android app.
+  
   	The project employs a sensor system for detecting car entering and leaving through parking slots along with a Wi-Fi Node MCU and an Android application, which can be accessed by the drivers from smart-phones. 
+  
   	Successfully executed prototype model
+  
   	Platform: Arduino IDE, C++, Android Studio, MIT App Inventor.
 
 ## INTERNSHIPS & WORK EXPERIENCE
+
   #Internship 
+  
     	Android Development
+    
     	Company: Baabtra.com.
+    
     	Duration:  Five Days.
 
   # Volunteered IEDC Programs
+  
     	Coordinated IOT and M2M, 2 Day workshop.
 
 ## TECHNICAL SKILLS
