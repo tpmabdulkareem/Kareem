@@ -46,15 +46,14 @@ Central Board of Secondary Education
 
 ## INTERNSHIPS & WORK EXPERIENCE
 
-  #Internship 
+  ### Internship 
   
     	Android Development
     
     	Company: Baabtra.com.
     
     	Duration:  Five Days.
-
-  # Volunteered IEDC Programs
+### Volunteered IEDC Programs
   
     	Coordinated IOT and M2M, 2 Day workshop.
 
@@ -69,9 +68,9 @@ Central Board of Secondary Education
   Software packages known	: OrCAD, Arduino IDE, Android studio, MIT App Inventor.
 	
 ## SOFT SKILLS & INTERESTS
- # LEADERSHIP: Led a team of 4 members to execute minor project.
+ ### LEADERSHIP: Led a team of 4 members to execute minor project.
  
- # SOCIAL WORKS: 
+ ##bSOCIAL WORKS: 
   •	 Home Care Service at Shelter, Santhonam Pain & Palliative Clinic, Tanur. 
   
   •	 Being part of a group, conducted Cleaning Service at Primary Health Centre, Thavanur. 
