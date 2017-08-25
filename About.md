@@ -9,21 +9,32 @@ To gain employment with a company that offers me a consistently positive atmosph
 
 
 # B.Tech
+
   Electronics & communication Engineering
+  
   MES College of Engineering, Kuttippuram
+  
   Calicut University
+  
   2017(Currently)	6.93(CGPA)
+
 # Class XII	  SSM Higher Secondary School, Theyallingal.
+  
   Kerala State Educational Board
-	2014	86%
-  Class X	MES Central School, Tanur
-  Central Board of Secondary Education
-	2012	82%
+
+2014	86%
+
+Class X	MES Central School, Tanur
+
+Central Board of Secondary Education
+
+2012	82%
 
 ## ACADEMIC PROJECTS
 
 # Smart-Parko [IoT Based smart parking slot) – Minor Project (B.Tech)
-  Duration: 6 month		Team Size: 4 Members                     Role: Team Leader
+ 
+ Duration: 6 month		Team Size: 4 Members                     Role: Team Leader
   
   	The objective of the project is to build an IoT based smart parking slot finder, using an android app.
   
