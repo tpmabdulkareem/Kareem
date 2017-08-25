@@ -8,7 +8,7 @@ To gain employment with a company that offers me a consistently positive atmosph
 ## ACADEMIC DETAILS
 
 
-# B.Tech
+## B.Tech
 
   Electronics & communication Engineering
   
@@ -18,13 +18,13 @@ To gain employment with a company that offers me a consistently positive atmosph
   
   2017(Currently)	6.93(CGPA)
 
-# Class XII	  SSM Higher Secondary School, Theyallingal.
+## Class XII	  SSM Higher Secondary School, Theyallingal.
   
   Kerala State Educational Board
 
 2014	86%
 
-Class X	MES Central School, Tanur
+## Class X	MES Central School, Tanur
 
 Central Board of Secondary Education
 
