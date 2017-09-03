@@ -4,7 +4,7 @@
 #  <br>                                                          FAB LAB
 
 
-<img src="images (!).jpg">
+<img src="images (1).jpg">
 
 ## [MINI FAB MESCE](https://www.fablabs.io/labs/mesce)
 
