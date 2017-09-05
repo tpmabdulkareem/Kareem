@@ -1,6 +1,8 @@
-#                            _INTRODUCTION TO FABLAB_
+#                                                     INTRODUCTION TO FABLAB
+
 
 ![introduction](http://www.youngbusinessleaders.eu/assets/images/news_images/gi-introduction.jpg)
+
 
    _This course is an introduction to “FabLab section of MESCE”. Students will learn to use commercially available technologies to “conceptualize, design, develop, fabricate and test” objects. The Lab features advanced computer software and contemporary tools for cutting, milling, electronics, engraving, and other processes of rapid and automated prototyping. Products and processes are typically individualized but can be developed entrepreneurially for commercial production._
 
@@ -8,8 +10,7 @@
 
    Prerequisite: None. General computer skills highly recommended.
 
-    This is a 1-week course that meets only 3 Hours per day.
+   This is a 1-week course that meets only 3 Hours per day.
 
 -----------
 
-------------
