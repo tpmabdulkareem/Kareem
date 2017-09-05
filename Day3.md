@@ -1,7 +1,7 @@
 # Laser Cutting 
 
   
-![epilog laser](http://www.freshwatercleveland.com/galleries/Features/2013/April_2013/Issue_117/makers/thinkbox_022.jpg)
+![epilog laser](https://shaheer08.github.io/Laser11.jpg)
 
  ## Laser Cutter can used for two functions
 
