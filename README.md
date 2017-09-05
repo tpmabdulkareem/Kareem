@@ -7,9 +7,8 @@
 <img src="fablab.jpg" height="500" width="800">
 
 
-### "_Make Almost Anything!_"
 
-### "_A brilliant creative space for budding product designers and entrepreneurs to test out their ideas and bring them to life._"
+### "_Make Almost Anything!, a brilliant creative space for budding product designers and entrepreneurs to test out their ideas and bring them to life._"
 
 ### What is fablab?
 
@@ -30,21 +29,21 @@
 
 ## _SYLLABUS_
 
- ##  Day 1 : [Indroduction To Fablab](https://tpmabdulkareem.github.io/Day1)
+ ### Day 1 : [Indroduction To Fablab](https://tpmabdulkareem.github.io/Day1)
 
- ##  Day 2 : [Github Pages and Documentation](https://tpmabdulkareem.github.io/Day2)
+ ### Day 2 : [Github Pages and Documentation](https://tpmabdulkareem.github.io/Day2)
                                
- ##  Day 3: [Electronics Production and CNC](https://tpmabdulkareem.github.io/Day3)
+ ### Day 3: [Electronics Production and CNC](https://tpmabdulkareem.github.io/Day3)
                                 
- ## DAY 4 : [Vinyl Cutting](https://tpmabdulkareem.github.io/Day4)
+ ### DAY 4 : [Vinyl Cutting](https://tpmabdulkareem.github.io/Day4)
                                 	
- ##  DAY 5 : [Screen Printing](https://tpmabdulkareem.github.io/Day5)
+ ### DAY 5 : [Screen Printing](https://tpmabdulkareem.github.io/Day5)
                                 	
- ##  DAY 6 : [3D Printing](https://tpmabdulkareem.github.io/Day6)
+ ### DAY 6 : [3D Printing](https://tpmabdulkareem.github.io/Day6)
                                 
- ##  Day 7 : [Laser Cutting,Moulding and Casting](https://tpmabdulkareem.github.io/Day7)
+ ### Day 7 : [Laser Cutting,Moulding and Casting](https://tpmabdulkareem.github.io/Day7)
                                 
- ##  [Project](https://tpmabdulkareem.github.io/project)
+ ### [Project](https://tpmabdulkareem.github.io/project)
  
  
  
