@@ -4,6 +4,7 @@
 
 ###  _A young and handsome geek from Tanur,Malappuram, Kerala, pursuing the 4th year of B.Tech in the Branch of Electronics and Communication  Engineering from MES College of Engineering, Kuttippuram. Always ready to learn and passionate to techonology._
 
+---
 
 ## ACADEMIC DETAILS
 
@@ -31,6 +32,8 @@ MES Central School, Tanur
 Central Board of Secondary Education
 
 
+----
+
 
 ## ACADEMIC PROJECTS
 
@@ -45,22 +48,22 @@ Central Board of Secondary Education
   	Successfully executed prototype model
   
   	Platform: Arduino IDE, C++, Android Studio, MIT App Inventor.
+  
+  
+ ----
+ 
 
 ## INTERNSHIPS & WORK EXPERIENCE
 
  Internship
  
-----
   	 Android Development
     
    	 Company: Baabtra.com.
     
    	 Duration:  Five Days.
     
-    
-### Volunteered IEDC Programs
-  
-    Coordinated IOT and M2M, 2 Day workshop.
+----
     
 
 ## TECHNICAL SKILLS
@@ -72,16 +75,24 @@ Central Board of Secondary Education
   Subjects of Interest	: Internet of things, Digital Electronics, Digital system Design.
   
   Software packages known	: OrCAD, Arduino IDE, Android studio, MIT App Inventor.
+  
+  
+  ----
+  
 	
 ## SOFT SKILLS & INTERESTS
 
  ### LEADERSHIP: Led a team of 4 members to execute minor project.
+ 
  
 ## SOCIAL WORKS:
  
   •	 Home Care Service at Shelter, Santhonam Pain & Palliative Clinic, Tanur. 
   
   •	 Being part of a group, conducted Cleaning Service at Primary Health Centre, Thavanur. 
+  
+  -----
+  
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
@@ -90,6 +101,9 @@ Central Board of Secondary Education
   •	Passionate about electronics & hardware and a member of Hackster.io kerala. 
   
   •	Core Committee member of IEDC, MESCE Kuttippuram.
+  
+  
+  ----
 	
 
 ## WEB PRESENCE
@@ -113,10 +127,13 @@ Central Board of Secondary Education
 			 MALAPPURAM DIST. PIN:676302
 		         KERALA, INDIA
 			 
-			 
+
+---
+
+
  ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861
    
    
- ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico) abdulkareemtpm@hotmail.com, abdulkareemtaunr@gmail.com
+ ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico) abdulkareemtpm@hotmail.com, abdulkareemtanur@gmail.com
 
 
