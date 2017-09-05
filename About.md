@@ -101,8 +101,16 @@ Central Board of Secondary Education
   
   Languages	: English, Malayalam.
   
-  Permanent Address 	: T P M K HOUSE (3), KARAD ROAD, TANUR, MALAPPURAM DIST. PIN:676302
+  Permanent Address 	: T P M K HOUSE (3), 
+                         
+			  KARAD ROAD, TANUR, 
+			  
+			  MALAPPURAM DIST. PIN:676302
+			  
+			  KERALA, INDIA
   
-  Email:abdulkareemtanur@gmail.com, abdulkareemtpm@hotmail.com
+  Email:     abdulkareemtanur@gmail.com,
+              
+	     abdulkareemtpm@hotmail.com
 
 
