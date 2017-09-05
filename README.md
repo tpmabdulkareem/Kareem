@@ -4,7 +4,7 @@
                                             
 
 
-<img src="fablab.jpg" height="400" width="800">
+<img src="fablab.jpg" height="500" width="800">
 
 
 ### "_Make Almost Anything!_"
@@ -22,11 +22,9 @@
    _The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them._
    
    
-   <br>
-   <img src="home_logo_avatar-32c73656536a26f3d0cb07a3a91ba524.jpg" height="30" width="30"> [ABOUT ME](https://tpmabdulkareem.github.io/About)
+   <br>[![ABOUT ME](<img src="home_logo_avatar-32c73656536a26f3d0cb07a3a91ba524.jpg" height="30" width="30">)](https://tpmabdulkareem.github.io/About) 
+   
 
-      
-    
 # Course Progress
     
 ## _SYLLABUS_
