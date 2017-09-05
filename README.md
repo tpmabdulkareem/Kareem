@@ -20,9 +20,14 @@
   _While fab labs have yet to compete with mass production and its associated economies of scale in fabricating widely distributed products, they have already shown the potential to empower individuals to create smart devices for themselves. These devices can be tailored to local or personal needs in ways that are not practical or economical using mass production._
    
    _The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them._
+   
+   
+   
+    <img src="aboutme.png" height="50" width="50">
+ ## [ABOUT ME](https://tpmabdulkareem.github.io/About)
+
       
     
-
 # Course Progress
     
 ## _SYLLABUS_
@@ -44,6 +49,5 @@
  
  
  
- <img src="fab11.jpg" height="50" width="50">## [ABOUT ME](https://tpmabdulkareem.github.io/About)
 
 
