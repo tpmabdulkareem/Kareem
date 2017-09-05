@@ -92,7 +92,7 @@ Central Board of Secondary Education
 	
 
 ## WEB PRESENCE
-   [![LinkedIn](http://www.iconninja.com/files/287/266/498/linkedin-icon.png)](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
+   [![LinkedIn](http://www.iconninja.com/ico/64/linkedin-604289.ico)](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
    
    [![GitHub](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/github-64.png)](http://tpmabdulkareem.github.io)
    
