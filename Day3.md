@@ -1,9 +1,7 @@
 # Laser Cutting 
 
 
-[![laserE](http://img.youtube.com/vi/https://www.youtube.com/watch?v=EcyPL_3J8Mc
-/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=EcyPL_3J8Mc
-)
+<img src="https://www.youtube.com/watch?v=EcyPL_3J8Mc" alt="LASER" width="240" height="180" border="10" /></a>
 
 # Moulding
 
