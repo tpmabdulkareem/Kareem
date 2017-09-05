@@ -1,7 +1,7 @@
 # Laser Cutting 
 
   
-![epilog laser](https://shaheer08.github.io/Laser11.jpg, )
+![epilog laser](https://shaheer08.github.io/Laser11.jpg)
 
  ## Laser Cutter can used for two functions
 
