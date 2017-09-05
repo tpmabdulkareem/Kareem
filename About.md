@@ -92,7 +92,7 @@ Central Board of Secondary Education
 	
 
 ## WEB PRESENCE
-   [![LinkedIn](http://www.iconninja.com/files/287/266/498/linkedin-icon.png](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
+   [![LinkedIn](http://www.iconninja.com/files/287/266/498/linkedin-icon.png)](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
    
    [![GitHub](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/github-64.png)](http://tpmabdulkareem.github.io)
    
@@ -100,7 +100,6 @@ Central Board of Secondary Education
    
    [![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/abdulkareemtpm)
    
-  ## ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861
 	
 	
 ## PERSONAL DETAILS
@@ -112,7 +111,10 @@ Central Board of Secondary Education
                          KARAD ROAD, TANUR, 
 			 MALAPPURAM DIST. PIN:676302
 		         KERALA, INDIA
+   ## ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861			 
   
- ###  [![Email](http://www.iconninja.com/files/202/837/183/gmail-icon.png) Email: abdulkareemtanur@gmail.com, abdulkareemtpm@hotmail.com
+ ###  ![Email](http://www.iconninja.com/files/202/837/183/gmail-icon.png) 
+ 
+   Email: abdulkareemtanur@gmail.com, abdulkareemtpm@hotmail.com
 
 
