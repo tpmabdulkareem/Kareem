@@ -1,4 +1,4 @@
-# ![Aboutme](http://www.iconninja.com/ico/32/person-592524.ico) ABOUT ME
+# _ABOUT ME_
 
 <img src="IMG_20170301_114734_588.jpg" height="280" width="280">
 
@@ -41,13 +41,13 @@ Central Board of Secondary Education
  
  Duration: 6 month | Team Size: 4 Members | Role: Team Leader
   
-  	The objective of the project is to build an IoT based smart parking slot finder, using an android app.
+  •	The objective of the project is to build an IoT based smart parking slot finder, using an android app.
   
-  	The project employs a sensor system for detecting car entering and leaving through parking slots along with a Wi-Fi Node MCU and 	an Android application, which can be accessed by the drivers from smart-phones. 
+  •	The project employs a sensor system for detecting car entering and leaving through parking slots along with a Wi-Fi Node MCU and 	an Android application, which can be accessed by the drivers from smart-phones. 
   
-  	Successfully executed prototype model
+  •	Successfully executed prototype model
   
-  	Platform: Arduino IDE, C++, Android Studio, MIT App Inventor.
+  •	Platform: Arduino IDE, C++, Android Studio, MIT App Inventor.
   
   
  ----
