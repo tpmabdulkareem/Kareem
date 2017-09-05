@@ -57,11 +57,11 @@ Central Board of Secondary Education
 
  Internship
  
-  	 Android Development
+   -- Android Development
     
-   	 Company: Baabtra.com.
+   -- Company: Baabtra.com.
     
-   	 Duration:  Five Days.
+   -- Duration:  Five Days.
     
 ----
     
@@ -82,7 +82,7 @@ Central Board of Secondary Education
 	
 ## SOFT SKILLS & INTERESTS
 
- ### LEADERSHIP: Led a team of 4 members to execute minor project.
+  LEADERSHIP: Led a team of 4 members to execute minor project.
  
  
 ## SOCIAL WORKS:
@@ -115,7 +115,7 @@ Central Board of Secondary Education
    
    [![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/abdulkareemtpm)
    
-	
+----	
 	
 ## PERSONAL DETAILS
   Date of Birth	: 28th April, 1996
@@ -136,4 +136,6 @@ Central Board of Secondary Education
    
  ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico) abdulkareemtpm@hotmail.com, abdulkareemtanur@gmail.com
 
+----
 
+----
