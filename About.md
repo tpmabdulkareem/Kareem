@@ -1,3 +1,4 @@
+![Aboutme](http://www.iconninja.com/ico/128/person-592524.ico) 
 # ABOUT ME
 
 <img src="IMG_20170301_114734_588.jpg" height="280" width="280">
@@ -99,13 +100,7 @@ Central Board of Secondary Education
 	
 
 ## WEB PRESENCE
-   [![LinkedIn](http://www.iconninja.com/ico/64/linkedin-604289.ico)](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
-   
-   [![GitHub](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/github-64.png)](http://tpmabdulkareem.github.io)
-   
-   [![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](http://www.facebook.com/abdul.kareem2)
-   
-   [![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/abdulkareemtpm)
+   [![LinkedIn](http://www.iconninja.com/ico/64/linkedin-604289.ico)](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/) [![GitHub](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/github-64.png)](http://tpmabdulkareem.github.io) [![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](http://www.facebook.com/abdul.kareem2) [![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/abdulkareemtpm)
    
 ----	
 	
