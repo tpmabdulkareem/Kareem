@@ -21,13 +21,13 @@
    
    _The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them._
    
+ <br>  
+ #   <img src="home_logo_avatar-32c73656536a26f3d0cb07a3a91ba524.jpg" height="30" width="30"> [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
    
- #  <br> <img src="home_logo_avatar-32c73656536a26f3d0cb07a3a91ba524.jpg" height="30" width="30"> [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
-   
-
-# Course Progress
 <br>
-    
+
+# _Course Progress_
+
 ## _SYLLABUS_
 
  ##  Day 1 : [Indroduction To Fablab](https://tpmabdulkareem.github.io/Day1)
