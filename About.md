@@ -1,5 +1,4 @@
-![Aboutme](http://www.iconninja.com/ico/128/person-592524.ico) 
-# ABOUT ME
+# ![Aboutme](http://www.iconninja.com/ico/64/person-592524.ico) ABOUT ME
 
 <img src="IMG_20170301_114734_588.jpg" height="280" width="280">
 
