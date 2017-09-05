@@ -1,7 +1,7 @@
 # Laser Cutting 
 
   
-![epilog laser](https://www.epiloglaser.com/assets/img/products/legend-carousel2.jpg )
+![epilog laser](https://www.epiloglaser.com/assets/img/products/mini18-model.jpg)
 
  ## Laser Cutter can used for two functions
 
