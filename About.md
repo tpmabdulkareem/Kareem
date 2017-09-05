@@ -1,8 +1,8 @@
 # ABOUT ME
 
-<img src="IMG_20170301_114734_588.jpg" height="80" width="80">
+<img src="IMG_20170301_114734_588.jpg" height="180" width="180">
 
-A young and handsome geek from Tanur,Malappuram, Kerala, pursuing the 4th year of B.Tech in the Branch of Electronics and Communication  Engineering from MES College of Engineering, Kuttippuram. Always ready to learn and passionate to techonology.
+##  _A young and handsome geek from Tanur,Malappuram, Kerala, pursuing the 4th year of B.Tech in the Branch of Electronics and Communication  Engineering from MES College of Engineering, Kuttippuram. Always ready to learn and passionate to techonology.
 
 
 ## ACADEMIC DETAILS
@@ -92,13 +92,13 @@ Central Board of Secondary Education
 	
 
 ## WEB PRESENCE
-   [!LinkedIn](https://www.google.co.in/search?q=linkedin+small+icon+png&tbm=isch&imgil=WLdhloaH3GRiwM%253A%253B0PGwPT4Okd3OHM%253Bhttps%25253A%25252F%25252Ficons8.com%25252Ficon%25252F446%25252Flinkedin&source=iu&pf=m&fir=WLdhloaH3GRiwM%253A%252C0PGwPT4Okd3OHM%252C_&usg=__qN2Sl8D84ud8UQfEdMZGX7zky4M%3D&biw=1280&bih=647&ved=0ahUKEwjUmOaZmY7WAhXFso8KHYDSCY0QyjcINA&ei=vKyuWdTKB8XlvgSApafoCA#imgrc=WLdhloaH3GRiwM:)(https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
+   [!LinkedIn](https://www.google.co.in/search?q=linkedin+small+icon+png&tbm=isch&imgil=WLdhloaH3GRiwM%253A%253B0PGwPT4Okd3OHM%253Bhttps%25253A%25252F%25252Ficons8.com%25252Ficon%25252F446%25252Flinkedin&source=iu&pf=m&fir=WLdhloaH3GRiwM%253A%252C0PGwPT4Okd3OHM%252C_&usg=__qN2Sl8D84ud8UQfEdMZGX7zky4M%3D&biw=1280&bih=647&ved=0ahUKEwjUmOaZmY7WAhXFso8KHYDSCY0QyjcINA&ei=vKyuWdTKB8XlvgSApafoCA#imgrc=WLdhloaH3GRiwM:)](https://www.linkedin.com/in/abdulkareem-tpm-9873b6108/)
    
    [![GitHub](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/github-64.png)](http://tpmabdulkareem.github.io)
    
    [![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](http://www.facebook.com/abdul.kareem2)
    
-   ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-24.png) +91 9746186861
+   ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-24.png)](+91 9746186861)
    
    [![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/abdulkareemtpm)  
 	
@@ -113,7 +113,7 @@ Central Board of Secondary Education
 			 MALAPPURAM DIST. PIN:676302
 		         KERALA, INDIA
   
-  Email:     abdulkareemtanur@gmail.com,
+  [!Email](https://www.google.co.in/search?biw=1280&bih=647&tbm=isch&sa=1&q=mail+small+icon+png&oq=mail+small+icon+png&gs_l=psy-ab.3...390173.390869.0.391354.4.4.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..4.0.0.oQRcA9R8Sqc)] abdulkareemtanur@gmail.com,
              abdulkareemtpm@hotmail.com
 
 
