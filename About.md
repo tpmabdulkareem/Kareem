@@ -47,10 +47,11 @@ Central Board of Secondary Education
   	Platform: Arduino IDE, C++, Android Studio, MIT App Inventor.
 
 ## INTERNSHIPS & WORK EXPERIENCE
-<br>
-	### Internship 
-<br>
-   	 Android Development
+
+ Internship
+ 
+----
+  	 Android Development
     
    	 Company: Baabtra.com.
     
@@ -112,10 +113,10 @@ Central Board of Secondary Education
 			 MALAPPURAM DIST. PIN:676302
 		         KERALA, INDIA
 			 
-<br>
-   ## ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861
+			 
+ ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861
    
-<br>
- ###  ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico) abdulkareemtpm@hotmail.com, abdulkareemtaunr@gmail.com
+   
+ ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico) abdulkareemtpm@hotmail.com, abdulkareemtaunr@gmail.com
 
 
