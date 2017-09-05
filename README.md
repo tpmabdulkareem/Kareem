@@ -29,7 +29,7 @@
 
 ## _SYLLABUS_
 
-  Day 1 : [Indroduction To Fablab](https://tpmabdulkareem.github.io/Day1)
+  Day 1 : [Introduction To Fablab](https://tpmabdulkareem.github.io/Day1)
 
   Day 2 : [Github Pages and Documentation](https://tpmabdulkareem.github.io/Day2)
                                
