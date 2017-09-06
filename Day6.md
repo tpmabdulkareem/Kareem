@@ -1,6 +1,5 @@
 #                                                     3D Printing
-
-    <img src="Ultimaker-2-Plus-Cura.jpg">   
+<img src="Ultimaker-2-Plus-Cura.jpg">   
     
 ## _3D D Printing is an additive manufacturing process that creates a physical object from a digital design.There are different 3D printing technologies and materials you can print with,but all are based on the same principle: a digital model is turned into a solid three-dimensionalphysical object by adding material layer by layer._
 
