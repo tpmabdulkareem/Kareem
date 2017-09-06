@@ -3,7 +3,7 @@
     
 #### _3D D Printing is an additive manufacturing process that creates a physical object from a digital design.There are different 3D printing technologies and materials you can print with,but all are based on the same principle: a digital model is turned into a solid three-dimensionalphysical object by adding material layer by layer._
 
-<video src="hero_loop_alpha.webm"  width="320" height="200" controls preload>
+|<video src="hero_loop_alpha.webm"  width="320" height="200">|<video src="teleport-animation.webm"  width="320" height="200">|
     
     
  ##  How does 3D printing work?
