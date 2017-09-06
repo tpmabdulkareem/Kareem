@@ -21,20 +21,18 @@
 ## Setups of printing a 3D model
    
    
-   |![steps](http://fabacademy.org/archives/2014/students/vallejo.juanes/images/w5shoesoffseuqence2.jpg)|
-   
 ###   * STEP 1: Designing the model
-|![steps1](https://i.ytimg.com/vi/CRczt7K7QhU/maxresdefault.jpg)|
+![steps1]|(https://i.ytimg.com/vi/CRczt7K7QhU/maxresdefault.jpg)|
   The 3D design of the model was developed using Rhinoceros 3D.The design file in .3dm format is available here.
       
       
 ###   * STEP 2: Transfer to Cura
-|![steps2](http://www.desktop3dprinter.com/user/news/thumbnails/Cura%2015.06%20screenshot.png)|
+![steps2]|(http://www.desktop3dprinter.com/user/news/thumbnails/Cura%2015.06%20screenshot.png)|
   The .3dm file is converted to .stl fil to be edited in Cura software, for adding support structure, 
    analysing dimensions and build time.The design file in .stl format is available here.
      
      
 ###   * STEP 3: Printing using Ultimaker 2+
-|![steps3](https://amassis.files.wordpress.com/2013/09/ultimaker2.jpg)|
+![steps3]|(https://amassis.files.wordpress.com/2013/09/ultimaker2.jpg)|
 
 The prototype is 3D printed from the design file using Ultimaker 2+ printer.After a print time of , the the printed model is taken from the printer plte giving time to cool.
