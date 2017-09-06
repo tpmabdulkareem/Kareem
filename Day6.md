@@ -33,7 +33,7 @@
      
      
 ###   * STEP 3: Printing using Ultimaker 2+
-![steps3](https://amassis.files.wordpress.com/2013/09/ultimaker2.jpg)
+![steps3](https://i.pinimg.com/originals/92/a2/9c/92a29ca353fc748c09fcf638ffbe0c2b.jpg)
 
 The prototype is 3D printed from the design file using Ultimaker 2+ printer.After a print time of , the the printed model is taken from the printer plte giving time to cool.
 
