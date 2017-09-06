@@ -1,5 +1,3 @@
-
-
 #                                                     3D Printing
 
   ![video](https://d3v5bfco3dani2.cloudfront.net/src/media/video/products/um2/hero/hero_loop_alpha.webm)
