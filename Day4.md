@@ -27,7 +27,7 @@
 ![cut](http://archive.fabacademy.org/2016/fablablccc/students/458/vinyl-1.png)
      
 ###  2. Take out its outline and get printed out.
-<img src="112.jpg" height="120" width="250">
+<img src="112.jpg" height="350" width="850">
 
 
 ![vinyl1](http://www.lilblueboo.com/wp-content/uploads/2011/05/IMG_3318.jpg)
