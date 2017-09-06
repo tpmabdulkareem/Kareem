@@ -3,7 +3,7 @@
     
 #### _3D D Printing is an additive manufacturing process that creates a physical object from a digital design.There are different 3D printing technologies and materials you can print with,but all are based on the same principle: a digital model is turned into a solid three-dimensionalphysical object by adding material layer by layer._
 
-|<video src="hero_loop_alpha.webm"  width="320" height="200" controls preload> | 
+|<video src="hero_loop_alpha.webm"  width="320" height="200" controls preload>| 
     
     
  ##  How does 3D printing work?
@@ -22,17 +22,20 @@
    
    
 ###   * STEP 1: Designing the model
-![steps1]|(https://i.ytimg.com/vi/CRczt7K7QhU/maxresdefault.jpg)|
+![steps1](https://i.ytimg.com/vi/CRczt7K7QhU/maxresdefault.jpg)
   The 3D design of the model was developed using Rhinoceros 3D.The design file in .3dm format is available here.
       
       
 ###   * STEP 2: Transfer to Cura
-![steps2]|(http://www.desktop3dprinter.com/user/news/thumbnails/Cura%2015.06%20screenshot.png)|
+![steps2](http://www.desktop3dprinter.com/user/news/thumbnails/Cura%2015.06%20screenshot.png)
   The .3dm file is converted to .stl fil to be edited in Cura software, for adding support structure, 
    analysing dimensions and build time.The design file in .stl format is available here.
      
      
 ###   * STEP 3: Printing using Ultimaker 2+
-![steps3]|(https://amassis.files.wordpress.com/2013/09/ultimaker2.jpg)|
+![steps3](https://amassis.files.wordpress.com/2013/09/ultimaker2.jpg)
 
 The prototype is 3D printed from the design file using Ultimaker 2+ printer.After a print time of , the the printed model is taken from the printer plte giving time to cool.
+
+
+----
