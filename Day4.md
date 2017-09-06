@@ -28,6 +28,8 @@
      
 ###  2. Take out its outline and get printed out.
 <img src="112.jpg" height="120" width="250">
+
+
 ![vinyl1](http://www.lilblueboo.com/wp-content/uploads/2011/05/IMG_3318.jpg)
 
 -----------------
