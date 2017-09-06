@@ -9,11 +9,27 @@
  ##  How does 3D printing work?
 
    _Every 3D print starts as a digital 3D design file – like a blueprint – for a physical object. Trying to print without a design file is like trying to print a document on a sheet of paper without a text file. This design file is sliced into thin layers which is then sent to the 3D printer._
-                    
-     
-     _From here on the printing process varies by technology, starting from desktop printers that melt a plastic material and lay it down onto a print platform to large industrial machines that use a laser to selectively melt metal powder at high temperatures. The printing can take hours to complete depending on the size, and the printed objects are often post-processed to reach the desired finish._
+            _From here on the printing process varies by technology, starting from desktop printers that melt a plastic material and lay it down onto a print platform to large industrial machines that use a laser to selectively melt metal powder at high temperatures. The printing can take hours to complete depending on the size, and the printed objects are often post-processed to reach the desired finish._
 
 
 [![Watch the video](https://i.ytimg.com/vi/B4sCia7t_oI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCr1cLkPbpVZO5YwwXREXKXURuzlQ)](https://www.youtube.com/watch?v=B4sCia7t_oI)
-.
-  
+
+
+## Setups of Desgning a 3D model
+   
+   
+   ![steps](http://fabacademy.org/archives/2014/students/vallejo.juanes/images/w5shoesoffseuqence2.jpg)
+   
+###   * STEP 1: Designing the model
+
+      The 3D design of the model was developed using Rhinoceros 3D.The design file in .3dm format is available here.
+      
+      
+###   * STEP 2: Transfer to Cura
+  The .3dm file is converted to .stl fil to be edited in Cura software, for adding support structure, 
+   analysing dimensions and build time.The design file in .stl format is available here.
+     
+     
+###   *STEP 3: Printing using Ultimaker 2+
+
+The prototype is 3D printed from the design file using Ultimaker 2+ printer.After a print time of , the the printed model is taken from the printer plte giving time to cool.
