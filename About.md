@@ -69,13 +69,13 @@ Central Board of Secondary Education
 
 ## TECHNICAL SKILLS
 
- | Languages Known	|: C, C++, Basics of Java, HTML, Assembly: 8085/8086, VHDL.|
+  Languages Known	: C, C++, Basics of Java, HTML, Assembly: 8085/8086, VHDL.
   
- | Operating System	|: Windows, Linux, Android.|
+  Operating System	: Windows, Linux, Android.
   
- | Subjects of Interest	|: Internet of things, Digital Electronics, Digital system Design.|
+  Subjects of Interest	: Internet of things, Digital Electronics, Digital system Design.
   
- | Software packages known|	: OrCAD, Arduino IDE, Android studio, MIT App Inventor.|
+  Software packages known	: OrCAD, Arduino IDE, Android studio, MIT App Inventor.
   
   
   ----
@@ -107,14 +107,16 @@ Central Board of Secondary Education
 ----	
 	
 ## PERSONAL DETAILS
- | Date of Birth	|: 28th April, 1996|
+
+
+ Date of Birth	   : 28th April, 1996
   
-|  Languages	|: English, Malayalam.|
+ Languages	   : English, Malayalam.
   
-  |Permanent Address 	|: T P M K HOUSE (3), 
-                         KARAD ROAD, TANUR, 
-			 MALAPPURAM DIST. PIN:676302
-		         KERALA, INDIA|
+ Permanent Address : T P M K HOUSE (3), 
+                     KARAD ROAD, TANUR, 
+		     MALAPPURAM DIST. PIN:676302
+		     KERALA, INDIA
 			 
 
 ---
@@ -123,9 +125,10 @@ Central Board of Secondary Education
  ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861
    
    
- ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico)   abdulkareemtpm@hotmail.com,                 
+ ![Email](http://www.iconninja.com/ico/64/web-live-hotmail-metro-371648.ico)   abdulkareemtpm@hotmail.com  
+ 
    
-   abdulkareemtanur@gmail.com
+ ![gmail](http://icons.iconarchive.com/icons/cornmanthe3rd/plex/64/Communication-gmail-icon.png)  abdulkareemtanur@gmail.com
 
 ----
 
