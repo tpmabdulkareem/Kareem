@@ -22,6 +22,8 @@
 ####  3. Wiping Process.
 
 
+
+
  ![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silketrykk.svg/220px-Silketrykk.svg.png) 
  
  #### A. Ink. B. Squeegee. C. Image. D. Photo-emulsion. E. Screen. F. Printed image.
