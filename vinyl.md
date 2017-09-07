@@ -11,15 +11,25 @@
 ### The cutstudio file is printed usiing the vinyl cutter on a 15mm X 15mm vinyl sheet piece. After an approximate cut time of 30 seconds, the cut piece of the protoype was obtained.
 
 
-<>
+<img src="200.jpg">
+
 
 ## STEP 3: Pasting
 
 ### The prototype is pated on laptop surface manually.
 
-<>
+
+<img src="201.jpg">
 
 
 ## Completed Model.
 
-<>
+
+<img src="202.jpg">
+
+
+### other works
+
+
+
+<img src="203.jpg">
