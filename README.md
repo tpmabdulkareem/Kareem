@@ -47,12 +47,12 @@
   
   ----
                                 
- # [Projects](https://tpmabdulkareem.github.io/project)
+# ![PRO](https://cdn3.iconfinder.com/data/icons/design-and-development/340/vector_237_07-01-128.png)  [Projects](https://tpmabdulkareem.github.io/project)
  
  -----
  
  
- # [Gallery](https://tpmabdulkareem.github.io/gallery)
+# ![GALL](https://cdn4.iconfinder.com/data/icons/flatron-2000-set-1/512/photo_gallery-128.png)  [Gallery](https://tpmabdulkareem.github.io/gallery)
  
  
  -----
