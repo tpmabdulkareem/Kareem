@@ -52,30 +52,30 @@
 
 ## SHOPBOT DESKTOP
 
-<img src="m6.jpg" height="500" width="800"> 
+<img src="m6.jpg" height="500" width="500"> 
 
 ## 3D PRINTER ULTIMAKER 2+
 
-<img src="m7.jpg" height="500" width="800">
+<img src="m7.jpg" height="500" width="500">
 
 
 ## EPILOG LASER CUTTER
 
-<img src="laser.jpg" width="800" height="500">
+<img src="laser.jpg" width="500" height="500">
 
 
 ## SAND BLASTING MACHINE
 
-<img src="m8.jpg" height="500" width="800">
+<img src="m8.jpg" height="500" width="500">
 
 ## ROLAND VINYL CUTTER 
 
-<img src="m9.jpg" width="800" height="500">
+<img src="m9.jpg" width="500" height="500">
 
 
 ## ELECTRONIC EQUIPMENTS
 
-<img src="m10.jpg" width="800" height="500">
+<img src="m10.jpg" width="500" height="500">
 
 
 
