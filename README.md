@@ -47,7 +47,7 @@
   
   ----
                                 
- # [Project](https://tpmabdulkareem.github.io/project)
+ # [Projects](https://tpmabdulkareem.github.io/project)
  
  -----
  
