@@ -24,10 +24,10 @@
 
 
 
-<img src="4A.jpg">
+<img src="4A.png">
 
 
-<img src="4B.jpg">
+<img src="4B.png">
 
 
 
