@@ -23,11 +23,12 @@
 #### The .png format of Trace is uploaded to fabmodules.org and procesed with desired values
 
 
-## Board cut out
-<img src="4A.png" height="100" width="100">
+## Board cut out &  Layout cut out
 
-## Layout cut out
-<img src="4B.png" height="100" width="100">
+
+|<img src="4A.png" height="400" width="400"> | <img src="4B.png" height="100" width="100">|
+
+
 
 
 
