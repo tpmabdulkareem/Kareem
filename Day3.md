@@ -80,6 +80,23 @@ The material required for urethane rubber molding and casting are:
 ### Step 7: Mix the powder gently with the water, in such a way that, first take water in a cup add 1/3rd of powder stir it again repeatedly add powder in to the water until it converted into slurry. Never add water in the powder, add powder into the water.
 
 
+#### ![9](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/11.JPG) Steer the combination of instamold powder and water to make slurry
+
+
+### Step 8:Now pour the slurry gently into the mold cavity until the mold cavity is fully filled, and Keep the mold cavity for curing up to 1-1:50hr or until it becomes solid. 
+
+#### ![10](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/15(1).JPG)  Pouring slurry into cavity
+
+
+### Step 9:Remove the cast part gently from the cavity.
+
+#### ![11](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/17.JPG)  Instamold object from mold cavity
+
+
+-------------------------
+
+
+
 
 
 
