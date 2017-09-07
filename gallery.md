@@ -2,7 +2,7 @@
 
 ## "When you create, you have glimpsed the Divine."
 
-##INSIDE FABLAB
+## INSIDE FABLAB
 
 ![s](https://user-images.githubusercontent.com/31272035/30148404-5fedb1b6-93b4-11e7-9874-508a8a49fbdf.jpg)
 
@@ -17,6 +17,8 @@
 
 <img src="m4.jpg">
 
+<img src="m5.jpg">
+
 
 ## FABLAB TEAM
 
@@ -24,9 +26,14 @@
 
 ![team](https://user-images.githubusercontent.com/31272035/30147967-2f508102-93b2-11e7-9a74-ab404c34e975.jpg)
 
-### COURSE BEEN CONDUCTED BY MR. JASEEL MUHAMMED [Fab Graduate from Fab Academy, Trivandrum]
+## FACULTIES
+
 
 ![faculty](https://user-images.githubusercontent.com/31272035/30148615-4ef30d06-93b5-11e7-850c-1629287075e6.jpg)
+
+
+### COURSE CONDUCTED BY MR. JASEEL MUHAMMED [Fab Graduate from Fab Academy, Trivandrum]
+
 
 ## FABLAB STAFF IN-CHARGE
 
@@ -40,7 +47,7 @@
 
 
 
-<img src="m5.jpg">
+
 
 ## SHOPBOT DESKTOP
 
