@@ -14,17 +14,18 @@
 
 
 
- ![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silketrykk.svg/220px-Silketrykk.svg.png) 
- 
- #### A. Ink. B. Squeegee. C. Image. D. Photo-emulsion. E. Screen. F. Printed image.
-
-
 
 ####  1. Designing the model.The 2D design of the model was developed using CutStudio.
     
 ####  2. Cutting using Vinyl cutter and Pasting, after creating holes, the stencil is pasted on to the screen.
   
 ####  3. Wiping Process.
+
+
+ ![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silketrykk.svg/220px-Silketrykk.svg.png) 
+ 
+ #### A. Ink. B. Squeegee. C. Image. D. Photo-emulsion. E. Screen. F. Printed image.
+
 
 
 
