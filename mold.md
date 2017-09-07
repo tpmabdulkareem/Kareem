@@ -8,7 +8,7 @@
 
 
 
-### STEP 2: Mixing the silicone rubber gel
+### STEP 2: Mixing up the silicon rubber gel
 
 #### The part A and part B of the silicone gel was mixed together thoroughly and 2 drops of red colour was added.
 
@@ -29,7 +29,7 @@
 
 #### STEP 4: Setting
 
-#### The casted model is ept for setting time of 4 hours.
+#### The casted model is opt for setting time of 4 hours.
 
 ![5](https://ameenkb.github.io/Images/M%207.jpg)
 
