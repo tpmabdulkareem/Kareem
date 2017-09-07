@@ -16,7 +16,7 @@
 
 ## SHOPBOT DESKTOP
 
-<img src="m6.jpg"> <img src="ShopBot_deskTop.jpeg">
+<img src="m6.jpg"> 
 
 ## 3D PRINTER ULTIMAKER 2+
 
