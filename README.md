@@ -29,7 +29,7 @@
 
 # _Course Progress_
 
-!([SYL](https://cdn4.iconfinder.com/data/icons/financial-6/128/043-128.png)
+![SYL](https://cdn4.iconfinder.com/data/icons/financial-6/128/043-128.png)
 
 ## _SYLLABUS & CONTENTS_
 
@@ -49,7 +49,7 @@
   
   ----
                                 
-![PRO](https://cdn3.iconfinder.com/data/icons/design-and-development/340/vector_237_07-01-128.png) 
+![PRO](https://cdn4.iconfinder.com/data/icons/sphere-1-4-icon-theme/128/folder-project.png) 
 
 # [Projects](https://tpmabdulkareem.github.io/project)
  
