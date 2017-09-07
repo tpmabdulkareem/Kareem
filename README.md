@@ -29,7 +29,7 @@
 
 # _Course Progress_
 
-## ![SYL](https://cdn4.iconfinder.com/data/icons/financial-6/128/043-64.png)  _SYLLABUS & CONTENTS_
+## ![SYL](https://cdn4.iconfinder.com/data/icons/financial-6/128/043-48.png)  _SYLLABUS & CONTENTS_
 
   Day 1 : [Introduction To Fablab](https://tpmabdulkareem.github.io/Day1)
 
@@ -47,12 +47,12 @@
   
   ----
                                 
-## ![PRO](https://cdn3.iconfinder.com/data/icons/design-and-development/340/vector_237_07-01-64.png)  [Projects](https://tpmabdulkareem.github.io/project)
+## ![PRO](https://cdn3.iconfinder.com/data/icons/design-and-development/340/vector_237_07-01-48.png)  [Projects](https://tpmabdulkareem.github.io/project)
  
  -----
  
  
-## ![GALL](https://cdn4.iconfinder.com/data/icons/flatron-2000-set-1/512/photo_gallery-64.png)[Gallery](https://tpmabdulkareem.github.io/gallery)
+## ![GALL](https://cdn4.iconfinder.com/data/icons/flatron-2000-set-1/512/photo_gallery-48.png)[Gallery](https://tpmabdulkareem.github.io/gallery)
  
  
  -----
