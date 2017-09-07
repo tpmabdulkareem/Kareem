@@ -6,6 +6,8 @@
 
 #### The 2D design of the model was developed using Autodesk Eagle.
 
+[led with switch](https://tpmabdulkareem.github.io/eagle.epf)
+
 
 <img src="40.jpg">
 
@@ -13,6 +15,11 @@
 ### STEP 2: Autorouting using Eagle
 
 #### THe designed circuit is routed using the autoroute feature in Autodesk Eagle
+
+[board](https://tpmabdulkareem.github.io/led.brd)
+
+
+[schematic](https://tpmabdulkareem.github.io/led.sch)
 
 
 <img src="41.jpg">
