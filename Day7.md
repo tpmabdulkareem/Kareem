@@ -35,7 +35,7 @@
 
 #### STEP 4: Soldering a PCB
 
-![soldering](http://eduardochamorro.github.io/fablabseoulacademy/images/pcb/pic58.jpgg)
+![soldering](http://eduardochamorro.github.io/fablabseoulacademy/images/pcb/pic58.jpg)
 
 ##### Clean the tip
 
