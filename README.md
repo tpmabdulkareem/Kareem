@@ -23,7 +23,7 @@
    ----
    
   
-# ![AB](https://cdn4.iconfinder.com/data/icons/user-interface-33/80/Account-128.png) [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
+# ![AB](https://cdn4.iconfinder.com/data/icons/user-interface-33/80/Account-48.png) [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
    
 -----
 
