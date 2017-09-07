@@ -26,7 +26,7 @@
 ## Board cut out &  Layout cut out
 
 
-|<img src="4A.png" height="400" width="400"> | <img src="4B.png" height="100" width="100">|
+|<img src="4A.png" height="400" width="400"> | <img src="4B.png" height="400" width="400">|
 
 
 
