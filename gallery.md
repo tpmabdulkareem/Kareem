@@ -70,12 +70,12 @@
 
 ## ROLAND VINYL CUTTER 
 
-<img src="m9.jpg" width="500" height="500">
+<img src="m9.jpg"  height="500">
 
 
 ## ELECTRONIC EQUIPMENTS
 
-<img src="m10.jpg" width="500" height="500">
+<img src="m10.jpg"  height="500">
 
 
 
