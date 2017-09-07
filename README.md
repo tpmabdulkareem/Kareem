@@ -23,7 +23,7 @@
    ----
    
   
-# <img src="home_logo_avatar-32c73656536a26f3d0cb07a3a91ba524.jpg" height="30" width="30"> [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
+# ![AB](https://cdn4.iconfinder.com/data/icons/user-interface-33/80/Account-128.png) [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
    
 -----
 
