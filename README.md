@@ -20,14 +20,16 @@
    
    _The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them._
    
+   ----
+   
   
 # <img src="home_logo_avatar-32c73656536a26f3d0cb07a3a91ba524.jpg" height="30" width="30"> [ABOUT ME](https://tpmabdulkareem.github.io/About)  (Click here) 
    
-
+-----
 
 # _Course Progress_
 
-## _SYLLABUS_
+## _SYLLABUS & CONTENTS_
 
   Day 1 : [Introduction To Fablab](https://tpmabdulkareem.github.io/Day1)
 
@@ -42,9 +44,18 @@
   Day 6 : [3D Printing](https://tpmabdulkareem.github.io/Day6)
                                 
   Day 7 : [Electronics Production and CNC](https://tpmabdulkareem.github.io/Day7)
+  
+  ----
                                 
-  [Project](https://tpmabdulkareem.github.io/project)
+ # [Project](https://tpmabdulkareem.github.io/project)
  
+ -----
+ 
+ 
+ # [Gallery](https://tpmabdulkareem.github.io/gallery)
+ 
+ 
+ -----
  
  
 
