@@ -28,8 +28,8 @@
 <img src="202.jpg">
 
 
-### other works
+## Other works a Smiley
 
 
 
-<img src="203.jpg">
+|<img src="203.jpg">|
