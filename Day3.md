@@ -63,7 +63,7 @@
 
  ![4](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/4.JPG) 
  
- ##### Fig 4. Mix the rubber compound in the urethane compound
+##### Fig 4. Mix the rubber compound in the urethane compound
 
 
  ![5](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/5.JPG) 
@@ -98,14 +98,14 @@
 
  ![9](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/11.JPG)
  
- ##### Steer the combination of instamold powder and water to make slurry
+##### Steer the combination of instamold powder and water to make slurry
 
 
 ### Step 8:Now pour the slurry gently into the mold cavity until the mold cavity is fully filled, and Keep the mold cavity for curing up to 1-1:50hr or until it becomes solid. 
 
  ![10](http://coep.vlab.co.in/userfiles/5/image/COEP%20fablab/images/Exp7/proc/15(1).JPG) 
  
- ##### Pouring slurry into cavity
+##### Pouring slurry into cavity
 
 
 ### Step 9:Remove the cast part gently from the cavity.
