@@ -55,7 +55,7 @@
 ## ![GALL](https://cdn4.iconfinder.com/data/icons/flatron-2000-set-1/512/photo_gallery-48.png)[Gallery](https://tpmabdulkareem.github.io/gallery)
 
 
-##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-64.png)  +919746186861
+##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-24.png)  +919746186861
  
  
  -----
