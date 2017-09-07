@@ -9,15 +9,15 @@
 
 ![s1](https://ameenkb.github.io/Images/Classroom.jpg)
 
-<img src="m1.jpg" height="500">
+<img src="m1.jpg" height="500" width="800">
 
-<img src="m2.jpg" height="500">
+<img src="m2.jpg" height="500" width="800">
 
-<img src="m3.jpg" height="500">
+<img src="m3.jpg" height="500" width="800">
 
-<img src="m4.jpg" height="500">
+<img src="m4.jpg" height="500" width="800">
 
-<img src="m5.jpg" height="500">
+<img src="m5.jpg" height="500" width="800">
 
 
 ## FABLAB TEAM
@@ -52,30 +52,30 @@
 
 ## SHOPBOT DESKTOP
 
-<img src="m6.jpg" height="500"> 
+<img src="m6.jpg" height="500" width="800"> 
 
 ## 3D PRINTER ULTIMAKER 2+
 
-<img src="m7.jpg" height="500">
+<img src="m7.jpg" height="500" width="800">
 
 
 ## EPILOG LASER CUTTER
 
-<img src="laser.jpg">
+<img src="laser.jpg" width="800" height="500">
 
 
 ## SAND BLASTING MACHINE
 
-<img src="m8.jpg" height="500">
+<img src="m8.jpg" height="500" width="800">
 
 ## ROLAND VINYL CUTTER 
 
-<img src="m9.jpg">
+<img src="m9.jpg" width="800" height="500">
 
 
 ## ELECTRONIC EQUIPMENTS
 
-<img src="m10.jpg">
+<img src="m10.jpg" width="800" height="500">
 
 
 
