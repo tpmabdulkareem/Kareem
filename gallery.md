@@ -9,15 +9,15 @@
 
 ![s1](https://ameenkb.github.io/Images/Classroom.jpg)
 
-<img src="m1.jpg">
+<img src="m1.jpg" height="500">
 
-<img src="m2.jpg">
+<img src="m2.jpg" height="500">
 
-<img src="m3.jpg">
+<img src="m3.jpg" height="500">
 
-<img src="m4.jpg">
+<img src="m4.jpg" height="500">
 
-<img src="m5.jpg">
+<img src="m5.jpg" height="500">
 
 
 ## FABLAB TEAM
@@ -32,7 +32,8 @@
 ![faculty](https://user-images.githubusercontent.com/31272035/30148615-4ef30d06-93b5-11e7-850c-1629287075e6.jpg)
 
 
-### COURSE CONDUCTED BY MR. JASEEL MUHAMMED [Fab Graduate from Fab Academy, Trivandrum]
+### COURSE CONDUCTED BY MR. JASEEL MUHAMMED
+#### Fab Graduate from Fab Academy, Trivandrum
 
 
 ## FABLAB STAFF IN-CHARGE
@@ -51,11 +52,11 @@
 
 ## SHOPBOT DESKTOP
 
-<img src="m6.jpg"> 
+<img src="m6.jpg" height="500"> 
 
 ## 3D PRINTER ULTIMAKER 2+
 
-<img src="m7.jpg">
+<img src="m7.jpg" height="500">
 
 
 ## EPILOG LASER CUTTER
@@ -65,7 +66,7 @@
 
 ## SAND BLASTING MACHINE
 
-<img src="m8.jpg">
+<img src="m8.jpg" height="500">
 
 ## ROLAND VINYL CUTTER 
 
@@ -78,5 +79,5 @@
 
 
 
-
+-------------
 
