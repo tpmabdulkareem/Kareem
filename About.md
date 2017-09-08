@@ -5,7 +5,7 @@
 
 <img src="IMG_20170301_114734_588.jpg" height="280" width="280">
 
-###  _A young, handsome geek from Tanur,Malappuram, Kerala, pursuing Bachelor of technology in Electronics and Communication  Engineering from MES College of Engineering, Kuttippuram. Always ready to learn and passion techonology._
+###  _A young, smart geek from Tanur,Malappuram, Kerala, pursuing Bachelor of technology in Electronics and Communication  Engineering from MES College of Engineering, Kuttippuram.  I have always enjoyed working with my hands and solving complex problems that really challenge me._
 
 ##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-24.png)  +919746186861
 
