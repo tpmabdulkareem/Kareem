@@ -7,100 +7,10 @@
 
 ###  _A young, smart geek from Tanur,Malappuram, Kerala, pursuing Bachelor of technology in Electronics and Communication  Engineering from MES College of Engineering, Kuttippuram.  I have always enjoyed working with my hands and solving complex problems that really challenge me._
 
-##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-24.png)  +919746186861
 
 ---
 
-## ACADEMIC DETAILS
 
-
-### B.Tech
-
-  Electronics & communication Engineering
-  
-  MES College of Engineering, Kuttippuram
-  
-  Calicut University
-  
-
-### Class XII	
-
-  SSM Higher Secondary School, Theyallingal.
-  
-  Kerala State Educational Board
-
-
-### Class X	
-
-MES Central School, Tanur
-
-Central Board of Secondary Education
-
-
-----
-
-
-## ACADEMIC PROJECTS
-
-### Smart-Parko (IoT Based smart parking slot) – Minor Project (B.Tech)
- 
- Duration: 6 month | Team Size: 4 Members | Role: Team Leader
-  
-  • The objective of the project is to build an IoT based smart parking slot finder, using an android app.
-  
-  • The project employs a sensor system for detecting car entering and leaving through parking slots along with a Wi-Fi Node MCU and 	     an Android application, which can be accessed by the drivers from smart-phones. 
-  
-  • Successfully executed prototype model
-  
-  • Platform: Arduino IDE, C++, Android Studio, MIT App Inventor.
-  
-  
- ----
- 
-
-## INTERNSHIPS
-
-   • Android Development
-    
-   • Company: Baabtra.com.
-    
-   • Duration:  Five Days.
-    
-----
-    
-
-## TECHNICAL SKILLS
-
-  Languages Known	: C, C++, Basics of Java, HTML, Assembly: 8085/8086, VHDL.
-  
-  Operating System	: Windows, Linux, Android.
-  
-  Subjects of Interest	: Internet of things, Digital Electronics, Digital system Design.
-  
-  Software packages known	: OrCAD, Arduino IDE, Android studio, MIT App Inventor.
-  
-  
-  ----
-  
-## SOCIAL WORKS:
- 
-  •	 Home Care Service at Shelter, Santhonam Pain & Palliative Clinic, Tanur. 
-  
-  •	 Being part of a group, conducted Cleaning Service at Primary Health Centre, Thavanur. 
-  
-  -----
-  
-
-## EXTRA-CURRICULAR ACTIVITIES
-
-  •	Student Entrepreneur, founder of Smart-Parko. 
-  
-  •	Passionate about electronics & hardware and a member of Hackster.io kerala. 
-  
-  •	Core Committee member of IEDC, MESCE Kuttippuram.
-  
-  
-  ----
 	
 
 ## WEB PRESENCE
@@ -110,6 +20,8 @@ Central Board of Secondary Education
 	
 ## PERSONAL DETAILS
 
+
+##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-24.png)  +919746186861,+918848032820.
 
  Date of Birth	   : 28th April, 1996
   
