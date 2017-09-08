@@ -23,13 +23,11 @@
 
 ### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-64.png)  +91 9746186861,+91 8848032820.
 
- Permanent Address : T P M K HOUSE (3), 
-                     KARAD ROAD, TANUR, 
-		     MALAPPURAM DIST. PIN:676302
-		     KERALA, INDIA
+#### Permanent Address : T P M K HOUSE (3), 
+  KARAD ROAD, TANUR, 
+  MALAPPURAM DIST. PIN:676302
+  KERALA, INDIA
 			 
-
----
 
 
  ![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-64.png) +91 9746186861
