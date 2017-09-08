@@ -1,4 +1,4 @@
-# PROJECT AND WORKS
+# PROJECT WORKS
 
 ![WORK](http://www.minc.com.au/core/uploads/2013/09/Project-Works.jpg)
 
