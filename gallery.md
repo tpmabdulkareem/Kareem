@@ -29,7 +29,7 @@
 ## FACULTIES
 
 
-![faculty](https://pbs.twimg.com/profile_images/479325267970629633/LkRjfFln_400x400.jpeg)
+![faculty](https://user-images.githubusercontent.com/31272035/30148615-4ef30d06-93b5-11e7-850c-1629287075e6.jpg)
 
 
 ### COURSE CONDUCTED BY MR. JASEEL MUHAMMED
