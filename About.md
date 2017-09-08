@@ -21,12 +21,8 @@
 ## PERSONAL DETAILS
 
 
-##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-64.png)  +919746186861,+918848032820.
+### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-64.png)  +91 9746186861,+91 8848032820.
 
- Date of Birth	   : 28th April, 1996
-  
- Languages	   : English, Malayalam.
-  
  Permanent Address : T P M K HOUSE (3), 
                      KARAD ROAD, TANUR, 
 		     MALAPPURAM DIST. PIN:676302
