@@ -21,7 +21,7 @@
 ## PERSONAL DETAILS
 
 
-##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-24.png)  +919746186861,+918848032820.
+##### ![ph](https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/viber-64.png)  +919746186861,+918848032820.
 
  Date of Birth	   : 28th April, 1996
   
