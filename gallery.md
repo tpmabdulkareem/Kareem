@@ -20,13 +20,13 @@
 <img src="m5.jpg" height="500" width="800">
 
 
-## FABLAB TEAM
 
-### FABLAB CREWS
+
+## FABLAB CREWS
 
 ![team](https://user-images.githubusercontent.com/31272035/30147967-2f508102-93b2-11e7-9a74-ab404c34e975.jpg)
 
-## FACULTIES
+### FACULTIES
 
 
 ![faculty](https://user-images.githubusercontent.com/31272035/30148615-4ef30d06-93b5-11e7-850c-1629287075e6.jpg)
@@ -41,8 +41,8 @@
 ![alt](http://mesce.ac.in:8080/calidadinfosystems-online-web/web/hrms/doBasicEmployeeDetailsPhoto.action;jsessionid=BA0A03CC5B86C8EC2927B0867B7E5F19?uinParameter=190319801001)
 
 ### Prof. Shine K,
-   DEPT. OF MECHANICAL
-   MESCE KUTTIPPURAM
+####   DEPT. OF MECHANICAL
+####   MESCE KUTTIPPURAM
    
 
 
