@@ -6,7 +6,7 @@
 |<video src="hero_loop_alpha.webm"  width="320" height="200" controls preload>| 
     
     
- ##  How does 3D printing work?
+##  How does 3D printing work?
 
    _Every 3D print starts as a digital 3D design file – like a blueprint – for a physical object. Trying to print without a design file is like trying to print a document on a sheet of paper without a text file. This design file is sliced into thin layers which is then sent to the 3D printer._
    
